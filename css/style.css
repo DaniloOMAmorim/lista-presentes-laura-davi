@@ -134,7 +134,7 @@ img { max-width: 100%; display: block; }
   .grade { --colunas: 3; --espaco: 1.5rem; }
 }
 
-@media (min-width: 1024px) {
+@media (min-width: 1280px) {
   .grade { --colunas: 4; }
 }
 
@@ -363,6 +363,51 @@ img { max-width: 100%; display: block; }
   .modal-produto .foto { width: min(220px, 70%); margin: 0 auto; }
   .voltar { position: static; align-self: flex-start; margin-bottom: 1rem; }
   .topo { padding-top: 1rem; }
+}
+
+/* ---------- Moldura nas laterais (computador) ---------- */
+
+.lateral { display: none; }
+
+@media (min-width: 1024px) {
+  :root {
+    /* As laterais têm a altura da tela (até 1100px); a vinha ocupa ~16% dessa altura em largura. */
+    --altura-lateral: min(100vh, 1100px);
+    --margem-lateral: calc(var(--altura-lateral) * 0.17);
+  }
+
+  .lateral {
+    display: block;
+    position: fixed;
+    top: 0;
+    z-index: 0;
+    width: auto;
+    max-width: none;
+    height: var(--altura-lateral);
+    pointer-events: none;
+  }
+
+  .lateral-esquerda { left: 0; }
+  .lateral-direita { right: 0; }
+
+  .topo, .conteudo, .rodape { position: relative; z-index: 1; }
+
+  .voltar {
+    padding: 0.2rem 0.6rem;
+    border-radius: var(--raio);
+    background: rgb(237 234 228 / 0.9);
+  }
+
+  .moldura {
+    width: auto;
+    aspect-ratio: auto;
+    padding-top: 2.5rem;
+    background: none;
+  }
+
+  .nomes { font-size: 3.6rem; }
+
+  .conteudo { max-width: min(1120px, calc(100% - 2 * var(--margem-lateral))); }
 }
 
 @media (prefers-reduced-motion: reduce) {
