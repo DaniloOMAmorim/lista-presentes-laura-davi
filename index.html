@@ -1,0 +1,59 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Lista de presentes · Laura &amp; Davi</title>
+  <meta name="description" content="Lista de presentes do casamento de Laura e Davi · 10.07.2027">
+  <link rel="icon" href="img/favicon.png">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,400;0,500;0,600;1,400&family=Pinyon+Script&display=swap">
+  <link rel="stylesheet" href="css/style.css">
+  <script src="js/vendor/qrcode.min.js" defer></script>
+  <script src="js/app.js" type="module"></script>
+</head>
+<body>
+  <header class="topo">
+    <a class="voltar" href="https://lauraedavi.my.canva.site/dahp8i6lckw">← voltar ao convite</a>
+    <div class="moldura">
+      <p class="rotulo">Lista de presentes</p>
+      <h1 class="nomes">Laura <span class="e">&amp;</span> Davi</h1>
+      <p class="data">10.07.2027</p>
+    </div>
+    <p class="agradecimento">Sua presença é o nosso maior presente. Se quiser nos abençoar com algo a mais, escolha um item abaixo.</p>
+    <img class="selo" src="img/selo.webp" alt="" width="72" height="73">
+  </header>
+
+  <main class="conteudo">
+    <p class="status" id="status" role="status">Carregando a lista…</p>
+    <ul class="grade" id="grade"></ul>
+  </main>
+
+  <footer class="rodape">Laura &amp; Davi · 10.07.2027</footer>
+
+  <dialog class="modal" id="modal" aria-labelledby="modal-titulo">
+    <div class="modal-caixa">
+      <button class="modal-fechar" id="modal-fechar" type="button" aria-label="Fechar">×</button>
+      <section class="modal-produto">
+        <div class="foto"><img id="modal-img" alt=""></div>
+        <h2 class="modal-titulo" id="modal-titulo"></h2>
+        <p class="preco" id="modal-preco"></p>
+        <p class="modal-descricao" id="modal-descricao"></p>
+      </section>
+      <section class="modal-pagamento" aria-label="Pagamento">
+        <p class="modal-rotulo">Presenteie com PIX</p>
+        <div class="qr" id="modal-qr" role="img" aria-label="QR code do PIX"></div>
+        <label class="pix-rotulo" for="modal-pix">PIX copia e cola</label>
+        <textarea class="pix-codigo" id="modal-pix" rows="4" readonly></textarea>
+        <button class="botao" id="modal-copiar" type="button">Copiar código</button>
+        <p class="dica">Coloque seu nome na mensagem do PIX 💛</p>
+        <div class="cartao" id="modal-cartao-bloco">
+          <div class="divisor"><span>ou</span></div>
+          <a class="botao botao-secundario" id="modal-cartao" target="_blank" rel="noopener">Pagar com cartão</a>
+        </div>
+      </section>
+    </div>
+  </dialog>
+</body>
+</html>

@@ -1,0 +1,28 @@
+{
+  "presentes": [
+    {
+      "id": "exemplo-jogo-de-panelas",
+      "title": "Exemplo: Jogo de panelas",
+      "description": "Presente de exemplo. Troque pelos presentes de verdade (veja o README).",
+      "url_img": "img/exemplo.webp",
+      "price_in_cents": 45000,
+      "pix_code": "00020126580014BR.GOV.BCB.PIX013600000000-0000-0000-0000-0000000000005204000053039865406450.005802BR5912LAURA E DAVI6009SAO PAULO62110507PANELAS6304D0F9",
+      "link_payment": "https://www.mercadopago.com.br"
+    },
+    {
+      "id": "exemplo-jantar-a-dois",
+      "title": "Exemplo: Jantar a dois",
+      "url_img": "img/exemplo.webp",
+      "price_in_cents": 18990,
+      "pix_code": "00020126580014BR.GOV.BCB.PIX013600000000-0000-0000-0000-0000000000005204000053039865406189.905802BR5912LAURA E DAVI6009SAO PAULO62100506JANTAR63049A31"
+    },
+    {
+      "id": "exemplo-lua-de-mel",
+      "title": "Exemplo: Cota da lua de mel",
+      "description": "Ajude a gente a conhecer um lugar novo juntos.",
+      "url_img": "img/exemplo.webp",
+      "price_in_cents": 120000,
+      "pix_code": "00020126580014BR.GOV.BCB.PIX013600000000-0000-0000-0000-00000000000052040000530398654071200.005802BR5912LAURA E DAVI6009SAO PAULO62120508LUADEMEL6304B0A3"
+    }
+  ]
+}
