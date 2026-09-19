@@ -98,8 +98,6 @@ img { max-width: 100%; display: block; }
   font-style: italic;
 }
 
-.selo { width: 72px; height: auto; margin-top: 1.5rem; }
-
 /* ---------- Grade ---------- */
 
 .conteudo {
@@ -114,21 +112,30 @@ img { max-width: 100%; display: block; }
   font-size: 1.2rem;
 }
 
+/* Flex em vez de grid para centralizar a última linha quando ela não está completa. */
 .grade {
-  display: grid;
-  grid-template-columns: repeat(2, minmax(0, 1fr));
-  gap: 1rem;
+  --colunas: 2;
+  --espaco: 1rem;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: var(--espaco);
   margin: 0;
   padding: 0;
   list-style: none;
 }
 
+.grade > li {
+  flex: 0 0 calc((100% - (var(--colunas) - 1) * var(--espaco)) / var(--colunas));
+  min-width: 0;
+}
+
 @media (min-width: 720px) {
-  .grade { grid-template-columns: repeat(3, minmax(0, 1fr)); gap: 1.5rem; }
+  .grade { --colunas: 3; --espaco: 1.5rem; }
 }
 
 @media (min-width: 1024px) {
-  .grade { grid-template-columns: repeat(4, minmax(0, 1fr)); }
+  .grade { --colunas: 4; }
 }
 
 .card {
