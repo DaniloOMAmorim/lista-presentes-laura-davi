@@ -184,16 +184,6 @@ Para quem programa: `npm test` roda os testes automáticos das regras da lista.
 
 ---
 
-## 9. Publicação (só na primeira vez)
-
-1. Crie um repositório no GitHub e envie estes arquivos.
-2. No repositório, vá em **Settings → Pages**.
-3. Em **Source**, escolha **Deploy from a branch**, selecione a branch **`main`** e a pasta **`/ (root)`**, e clique em **Save**.
-4. Em 1 ou 2 minutos aparece o endereço do site, algo como `https://seu-usuario.github.io/nome-do-repositorio/`.
-5. No **Canva**, troque o link do botão **"Lista de presentes"** por esse endereço e publique o convite de novo.
-
----
-
 ## Arquivos do projeto
 
 | Arquivo | Para que serve | Mexer? |
