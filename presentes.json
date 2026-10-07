@@ -17,24 +17,10 @@
       "pix_code": "00020126580014BR.GOV.BCB.PIX013600000000-0000-0000-0000-0000000000005204000053039865406189.905802BR5912LAURA E DAVI6009SAO PAULO62100506JANTAR63049A31"
     },
     {
-      "id": "exemplo-jantar-a-dois",
-      "title": "Jogo de Jantar Porcelana",
-      "url_img": "img/jogo-de-jantar.webp",
-      "price_in_cents": 28990,
-      "pix_code": "00020126580014BR.GOV.BCB.PIX013600000000-0000-0000-0000-0000000000005204000053039865406189.905802BR5912LAURA E DAVI6009SAO PAULO62100506JANTAR63049A31"
-    },
-    {
-      "id": "exemplo-jantar-a-dois",
+      "id": "exemplo-refratario-ceramica",
       "title": "Jogo de Refratario de Ceramica",
       "url_img": "img/jogo-refratario-ceramica.webp",
-      "price_in_cents": 28990,
-      "pix_code": "00020126580014BR.GOV.BCB.PIX013600000000-0000-0000-0000-0000000000005204000053039865406189.905802BR5912LAURA E DAVI6009SAO PAULO62100506JANTAR63049A31"
-    },
-    {
-      "id": "exemplo-jantar-a-dois",
-      "title": "Jogo de Jantar Porcelana",
-      "url_img": "img/jogo-de-jantar.webp",
-      "price_in_cents": 28990,
+      "price_in_cents": 8990,
       "pix_code": "00020126580014BR.GOV.BCB.PIX013600000000-0000-0000-0000-0000000000005204000053039865406189.905802BR5912LAURA E DAVI6009SAO PAULO62100506JANTAR63049A31"
     },
     {
