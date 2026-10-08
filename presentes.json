@@ -64,6 +64,15 @@
       "link_payment": "https://www.mercadopago.com.br"
     },
     {
+      "id": "exemplo-panela-eletrica",
+      "title": "Panela Elétrica Electrolux",
+      "description": "Panela elétrica Electrolux 2 em 1, com capacidade de 2L, função vapor, timer e panela removível antiaderente. Prática e versátil para o dia a dia.",
+      "url_img": "img/jogo-de-tacas-sobremesa.jpg",
+      "price_in_cents": 19990,
+      "pix_code": "00020126580014BR.GOV.BCB.PIX013600000000-0000-0000-0000-0000000000005204000053039865406450.005802BR5912LAURA E DAVI6009SAO PAULO62110507PANELAS6304D0F9",
+      "link_payment": "https://www.mercadopago.com.br"
+    },
+    {
       "id": "exemplo-jogo-de-cama-casal",
       "title": "Jogo de Colcha Home Style Palm",
       "description": "Jogo de colcha casal com 1 colcha e 2 porta-travesseiros, em microfibra macia e dupla face. Ideal para deixar o quarto mais aconchegante e bonito.",
