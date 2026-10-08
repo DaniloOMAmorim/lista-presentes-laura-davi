@@ -73,6 +73,15 @@
       "link_payment": "https://www.mercadopago.com.br"
     },
     {
+      "id": "exemplo-jogo-de-toalha",
+      "title": "Jogo 4 Toalhas Banhão Karsten",
+      "description": "Kit Karsten Lumina com 2 toalhas de rosto e 2 toalhas de banho, em algodão macio, encorpado e de alta absorção. Ideal para o dia a dia.",
+      "url_img": "img/jogo-de-toalha.jpg",
+      "price_in_cents": 26990,
+      "pix_code": "00020126580014BR.GOV.BCB.PIX013600000000-0000-0000-0000-0000000000005204000053039865406450.005802BR5912LAURA E DAVI6009SAO PAULO62110507PANELAS6304D0F9",
+      "link_payment": "https://www.mercadopago.com.br"
+    },
+    {
       "id": "exemplo-lua-de-mel",
       "title": "Exemplo: Cota da lua de mel",
       "description": "Ajude a gente a conhecer um lugar novo juntos.",
