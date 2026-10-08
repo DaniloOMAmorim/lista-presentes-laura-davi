@@ -82,10 +82,28 @@
       "link_payment": "https://www.mercadopago.com.br"
     },
     {
+      "id": "exemplo-pipoca",
+      "title": "Pipoqueira Vermelha",
+      "description": "Pipoqueira elétrica, prepara pipoca em menos de 3 minutos sem óleo, com capacidade para 100g de milho. Compacta, prática e fácil de guardar.",
+      "url_img": "img/pipoqueira.jpg",
+      "price_in_cents": 11990,
+      "pix_code": "00020126580014BR.GOV.BCB.PIX013600000000-0000-0000-0000-0000000000005204000053039865406450.005802BR5912LAURA E DAVI6009SAO PAULO62110507PANELAS6304D0F9",
+      "link_payment": "https://www.mercadopago.com.br"
+    },
+    {
+      "id": "exemplo-batedeira",
+      "title": "Batedeira Planetária",
+      "description": "Batedeira planetária, com 12 velocidades, tigela de inox de 3,5L e 3 batedores para diferentes receitas. Prática e versátil para preparar bolos, pães, massas e muito mais.",
+      "url_img": "img/batedeira_planetaria.jpg",
+      "price_in_cents": 51990,
+      "pix_code": "00020126580014BR.GOV.BCB.PIX013600000000-0000-0000-0000-0000000000005204000053039865406450.005802BR5912LAURA E DAVI6009SAO PAULO62110507PANELAS6304D0F9",
+      "link_payment": "https://www.mercadopago.com.br"
+    },
+    {
       "id": "exemplo-mixer",
       "title": "Mixer 3 em 1 Vermelho",
       "description": "Mixer com copo medidor, miniprocessador e batedor de claras. Prático e versátil para preparar diversas receitas.",
-      "url_img": "img/exemplo.webp",
+      "url_img": "img/mixer-vermelho-com-utensilios.jpg",
       "price_in_cents": 10990,
       "pix_code": "00020126580014BR.GOV.BCB.PIX013600000000-0000-0000-0000-0000000000005204000053039865406450.005802BR5912LAURA E DAVI6009SAO PAULO62110507PANELAS6304D0F9",
       "link_payment": "https://www.mercadopago.com.br"
@@ -121,8 +139,8 @@
       "id": "exemplo-kit-lavabo",
       "title": "Kit Banheiro Lavabo Cimento",
       "description": "Kit Peônia com aromatizador, saboneteira e porta-cotonetes em cimento, com acabamento em granilite preto.",
-      "url_img": "img/jogo-de-toalha.jpg",
-      "price_in_cents": 26990,
+      "url_img": "img/jogo-lavabo.webp",
+      "price_in_cents": 79,90,
       "pix_code": "00020126580014BR.GOV.BCB.PIX013600000000-0000-0000-0000-0000000000005204000053039865406450.005802BR5912LAURA E DAVI6009SAO PAULO62110507PANELAS6304D0F9",
       "link_payment": "https://www.mercadopago.com.br"
     },
