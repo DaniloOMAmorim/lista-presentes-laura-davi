@@ -30,7 +30,7 @@
     {
       "id": "exemplo-jogo-de-utensilios",
       "title": "Jogo de Utencilios",
-      "description": "Conjunto Electrolux com 6 utensílios de bambu, incluindo porta-utensílios. Prático, resistente e ideal para o dia a dia na cozinha.",
+      "description": "Conjunto com 6 utensílios de bambu, incluindo porta-utensílios. Prático, resistente e ideal para o dia a dia na cozinha.",
       "url_img": "img/jogo-de-utensilios.webp",
       "price_in_cents": 9000,
       "pix_code": "00020126580014BR.GOV.BCB.PIX013600000000-0000-0000-0000-0000000000005204000053039865406450.005802BR5912LAURA E DAVI6009SAO PAULO62110507PANELAS6304D0F9",
@@ -39,6 +39,7 @@
     {
       "id": "exemplo-jogo-de-potes-vidro-tampa",
       "title": "Jogo de Potes de Vidro",
+      "description": "Kit Electrolux com 4 potes herméticos de vidro e tampas em inox, ideais para armazenar e conservar alimentos com praticidade e organização.",
       "url_img": "img/potes-vidro-tampa.webp",
       "price_in_cents": 9400,
       "pix_code": "00020126580014BR.GOV.BCB.PIX013600000000-0000-0000-0000-0000000000005204000053039865406450.005802BR5912LAURA E DAVI6009SAO PAULO62110507PANELAS6304D0F9",
@@ -47,6 +48,7 @@
     {
       "id": "exemplo-jogo-de-copos",
       "title": "Jogo de Copos",
+      "description": "Jogo com 6 copos Nadir Oca de 300 ml, em vidro resistente e com design moderno. Ideal para servir sucos, refrigerantes e drinks no dia a dia ou em ocasiões especiais.",
       "url_img": "img/jogo-de-copos.webp",
       "price_in_cents": 8990,
       "pix_code": "00020126580014BR.GOV.BCB.PIX013600000000-0000-0000-0000-0000000000005204000053039865406450.005802BR5912LAURA E DAVI6009SAO PAULO62110507PANELAS6304D0F9",
@@ -55,6 +57,7 @@
     {
       "id": "exemplo-jogo-de-tacas-sobremesa",
       "title": "Jogo De Taças Sobremesa",
+      "description": "Jogo com 6 taças de sobremesa, com capacidade de 230 ml. Em vidro resistente, possuem design clássico e são ideais para servir sorvetes, mousses, frutas e outras sobremesas.",
       "url_img": "img/jogo-de-tacas-sobremesa.jpg",
       "price_in_cents": 10990,
       "pix_code": "00020126580014BR.GOV.BCB.PIX013600000000-0000-0000-0000-0000000000005204000053039865406450.005802BR5912LAURA E DAVI6009SAO PAULO62110507PANELAS6304D0F9",
