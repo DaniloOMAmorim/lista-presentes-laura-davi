@@ -12,6 +12,7 @@
     {
       "id": "exemplo-jantar-a-dois",
       "title": "Jogo de Jantar Porcelana",
+      "description": "Jogo de jantar com 20 peças em porcelana de alta qualidade, com delicado filete de ouro. Seu design clássico e sofisticado é ideal para deixar a mesa ainda mais bonita e acolhedora, atendendo até 4 pessoas.",
       "url_img": "img/jogo-de-jantar.webp",
       "price_in_cents": 28990,
       "pix_code": "00020126580014BR.GOV.BCB.PIX013600000000-0000-0000-0000-0000000000005204000053039865406450.005802BR5912LAURA E DAVI6009SAO PAULO62110507PANELAS6304D0F9",
@@ -20,6 +21,7 @@
     {
       "id": "exemplo-refratario-ceramica",
       "title": "Jogo de Refratario de Ceramica",
+      "description": "Conjunto com 3 assadeiras em cerâmica, resistentes, versáteis e ideais para preparar e servir diferentes receitas.",
       "url_img": "img/jogo-refratario-ceramica.webp",
       "price_in_cents": 8990,
       "pix_code": "00020126580014BR.GOV.BCB.PIX013600000000-0000-0000-0000-0000000000005204000053039865406450.005802BR5912LAURA E DAVI6009SAO PAULO62110507PANELAS6304D0F9",
