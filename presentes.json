@@ -73,6 +73,33 @@
       "link_payment": "https://www.mercadopago.com.br"
     },
     {
+      "id": "exemplo-escorredor",
+      "title": "Escorredor De Louças Bambu Natural Dobrável",
+      "description": "Escorredor de louça dobrável em bambu natural, com 11 divisórias para pratos. Prático, resistente e ideal para organizar a cozinha economizando espaço.",
+      "url_img": "img/escorredor_pratos_dobravel_bambu.jpg",
+      "price_in_cents": 10990,
+      "pix_code": "00020126580014BR.GOV.BCB.PIX013600000000-0000-0000-0000-0000000000005204000053039865406450.005802BR5912LAURA E DAVI6009SAO PAULO62110507PANELAS6304D0F9",
+      "link_payment": "https://www.mercadopago.com.br"
+    },
+    {
+      "id": "exemplo-mixer",
+      "title": "Mixer 3 em 1 Vermelho",
+      "description": "Mixer com copo medidor, miniprocessador e batedor de claras. Prático e versátil para preparar diversas receitas".,
+      "url_img": "img/escorredor_pratos_dobravel_bambu.jpg",
+      "price_in_cents": 10990,
+      "pix_code": "00020126580014BR.GOV.BCB.PIX013600000000-0000-0000-0000-0000000000005204000053039865406450.005802BR5912LAURA E DAVI6009SAO PAULO62110507PANELAS6304D0F9",
+      "link_payment": "https://www.mercadopago.com.br"
+    },
+    {
+      "id": "exemplo-aspirador",
+      "title": "Aspirador de Pó Vertical",
+      "description": "Aspirador de pó 2 em 1, reservatório de 1,6L, filtro HEPA e cabo de 5 metros. Prático e versátil para a limpeza do dia a dia.",
+      "url_img": "img/aspirador_po_vertical.jpg",
+      "price_in_cents": 10990,
+      "pix_code": "00020126580014BR.GOV.BCB.PIX013600000000-0000-0000-0000-0000000000005204000053039865406450.005802BR5912LAURA E DAVI6009SAO PAULO62110507PANELAS6304D0F9",
+      "link_payment": "https://www.mercadopago.com.br"
+    },
+    {
       "id": "exemplo-jogo-de-cama-casal",
       "title": "Jogo de Colcha Home Style Palm",
       "description": "Jogo de colcha casal com 1 colcha e 2 porta-travesseiros, em microfibra macia e dupla face. Ideal para deixar o quarto mais aconchegante e bonito.",
