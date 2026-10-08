@@ -34,21 +34,21 @@
       "id": "exemplo-jogo-de-potes-vidro-tampa",
       "title": "Jogo de Potes de Vidro",
       "url_img": "img/potes-vidro-tampa.webp",
-      "price_in_cents": 9499,
+      "price_in_cents": 9400,
       "pix_code": "00020126580014BR.GOV.BCB.PIX013600000000-0000-0000-0000-0000000000005204000053039865406189.905802BR5912LAURA E DAVI6009SAO PAULO62100506JANTAR63049A31"
     },
     {
       "id": "exemplo-jogo-de-copos",
       "title": "Jogo de Copos",
       "url_img": "img/jogo-de-copos.webp",
-      "price_in_cents": 8999,
+      "price_in_cents": 8990,
       "pix_code": "00020126580014BR.GOV.BCB.PIX013600000000-0000-0000-0000-0000000000005204000053039865406189.905802BR5912LAURA E DAVI6009SAO PAULO62100506JANTAR63049A31"
     },
     {
       "id": "exemplo-jogo-de-tacas-sobremesa",
       "title": "Jogo De Taças Sobremesa",
       "url_img": "img/jogo-de-tacas-sobremesa.jpg",
-      "price_in_cents": 10999,
+      "price_in_cents": 10990,
       "pix_code": "00020126580014BR.GOV.BCB.PIX013600000000-0000-0000-0000-0000000000005204000053039865406189.905802BR5912LAURA E DAVI6009SAO PAULO62100506JANTAR63049A31"
     },
     {
