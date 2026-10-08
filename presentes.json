@@ -14,42 +14,48 @@
       "title": "Jogo de Jantar Porcelana",
       "url_img": "img/jogo-de-jantar.webp",
       "price_in_cents": 28990,
-      "pix_code": "00020126580014BR.GOV.BCB.PIX013600000000-0000-0000-0000-0000000000005204000053039865406189.905802BR5912LAURA E DAVI6009SAO PAULO62100506JANTAR63049A31"
+      "pix_code": "00020126580014BR.GOV.BCB.PIX013600000000-0000-0000-0000-0000000000005204000053039865406450.005802BR5912LAURA E DAVI6009SAO PAULO62110507PANELAS6304D0F9",
+      "link_payment": "https://www.mercadopago.com.br"
     },
     {
       "id": "exemplo-refratario-ceramica",
       "title": "Jogo de Refratario de Ceramica",
       "url_img": "img/jogo-refratario-ceramica.webp",
       "price_in_cents": 8990,
-      "pix_code": "00020126580014BR.GOV.BCB.PIX013600000000-0000-0000-0000-0000000000005204000053039865406189.905802BR5912LAURA E DAVI6009SAO PAULO62100506JANTAR63049A31"
+      "pix_code": "00020126580014BR.GOV.BCB.PIX013600000000-0000-0000-0000-0000000000005204000053039865406450.005802BR5912LAURA E DAVI6009SAO PAULO62110507PANELAS6304D0F9",
+      "link_payment": "https://www.mercadopago.com.br"
     },
     {
       "id": "exemplo-jogo-de-utensilios",
       "title": "Jogo de Utencilios",
       "url_img": "img/jogo-de-utensilios.webp",
       "price_in_cents": 9000,
-      "pix_code": "00020126580014BR.GOV.BCB.PIX013600000000-0000-0000-0000-0000000000005204000053039865406189.905802BR5912LAURA E DAVI6009SAO PAULO62100506JANTAR63049A31"
+      "pix_code": "00020126580014BR.GOV.BCB.PIX013600000000-0000-0000-0000-0000000000005204000053039865406450.005802BR5912LAURA E DAVI6009SAO PAULO62110507PANELAS6304D0F9",
+      "link_payment": "https://www.mercadopago.com.br"
     },
     {
       "id": "exemplo-jogo-de-potes-vidro-tampa",
       "title": "Jogo de Potes de Vidro",
       "url_img": "img/potes-vidro-tampa.webp",
       "price_in_cents": 9400,
-      "pix_code": "00020126580014BR.GOV.BCB.PIX013600000000-0000-0000-0000-0000000000005204000053039865406189.905802BR5912LAURA E DAVI6009SAO PAULO62100506JANTAR63049A31"
+      "pix_code": "00020126580014BR.GOV.BCB.PIX013600000000-0000-0000-0000-0000000000005204000053039865406450.005802BR5912LAURA E DAVI6009SAO PAULO62110507PANELAS6304D0F9",
+      "link_payment": "https://www.mercadopago.com.br"
     },
     {
       "id": "exemplo-jogo-de-copos",
       "title": "Jogo de Copos",
       "url_img": "img/jogo-de-copos.webp",
       "price_in_cents": 8990,
-      "pix_code": "00020126580014BR.GOV.BCB.PIX013600000000-0000-0000-0000-0000000000005204000053039865406189.905802BR5912LAURA E DAVI6009SAO PAULO62100506JANTAR63049A31"
+      "pix_code": "00020126580014BR.GOV.BCB.PIX013600000000-0000-0000-0000-0000000000005204000053039865406450.005802BR5912LAURA E DAVI6009SAO PAULO62110507PANELAS6304D0F9",
+      "link_payment": "https://www.mercadopago.com.br"
     },
     {
       "id": "exemplo-jogo-de-tacas-sobremesa",
       "title": "Jogo De Taças Sobremesa",
       "url_img": "img/jogo-de-tacas-sobremesa.jpg",
       "price_in_cents": 10990,
-      "pix_code": "00020126580014BR.GOV.BCB.PIX013600000000-0000-0000-0000-0000000000005204000053039865406189.905802BR5912LAURA E DAVI6009SAO PAULO62100506JANTAR63049A31"
+      "pix_code": "00020126580014BR.GOV.BCB.PIX013600000000-0000-0000-0000-0000000000005204000053039865406450.005802BR5912LAURA E DAVI6009SAO PAULO62110507PANELAS6304D0F9",
+      "link_payment": "https://www.mercadopago.com.br"
     },
     {
       "id": "exemplo-lua-de-mel",
@@ -57,7 +63,8 @@
       "description": "Ajude a gente a conhecer um lugar novo juntos.",
       "url_img": "img/exemplo.webp",
       "price_in_cents": 120000,
-      "pix_code": "00020126580014BR.GOV.BCB.PIX013600000000-0000-0000-0000-00000000000052040000530398654071200.005802BR5912LAURA E DAVI6009SAO PAULO62120508LUADEMEL6304B0A3"
+      "pix_code": "00020126580014BR.GOV.BCB.PIX013600000000-0000-0000-0000-0000000000005204000053039865406450.005802BR5912LAURA E DAVI6009SAO PAULO62110507PANELAS6304D0F9",
+      "link_payment": "https://www.mercadopago.com.br"
     }
   ]
 }
