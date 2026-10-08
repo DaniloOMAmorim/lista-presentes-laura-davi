@@ -3,7 +3,7 @@
     {
       "id": "exemplo-jogo-de-panelas",
       "title": "Jogo de Panelas Antiaderente",
-      "description": "Presente de exemplo. Troque pelos presentes de verdade (veja o README).",
+      "description": "Jogo de Panelas Home Style Malta, produzido em alumínio com revestimento cerâmico antiaderente e composto por 5 peças.",
       "url_img": "img/jogodepanela.webp",
       "price_in_cents": 45000,
       "pix_code": "00020126580014BR.GOV.BCB.PIX013600000000-0000-0000-0000-0000000000005204000053039865406450.005802BR5912LAURA E DAVI6009SAO PAULO62110507PANELAS6304D0F9",
@@ -12,7 +12,7 @@
     {
       "id": "exemplo-jantar-a-dois",
       "title": "Jogo de Jantar Porcelana",
-      "description": "Jogo de jantar com 20 peças em porcelana de alta qualidade, com delicado filete de ouro. Seu design clássico e sofisticado é ideal para deixar a mesa ainda mais bonita e acolhedora, atendendo até 4 pessoas.",
+      "description": "Jogo de jantar com 20 peças em porcelana, com delicado filete de ouro e design clássico. Ideal para até 4 pessoas.",
       "url_img": "img/jogo-de-jantar.webp",
       "price_in_cents": 28990,
       "pix_code": "00020126580014BR.GOV.BCB.PIX013600000000-0000-0000-0000-0000000000005204000053039865406450.005802BR5912LAURA E DAVI6009SAO PAULO62110507PANELAS6304D0F9",
@@ -30,6 +30,7 @@
     {
       "id": "exemplo-jogo-de-utensilios",
       "title": "Jogo de Utencilios",
+      "description": "Conjunto Electrolux com 6 utensílios de bambu, incluindo porta-utensílios. Prático, resistente e ideal para o dia a dia na cozinha.",
       "url_img": "img/jogo-de-utensilios.webp",
       "price_in_cents": 9000,
       "pix_code": "00020126580014BR.GOV.BCB.PIX013600000000-0000-0000-0000-0000000000005204000053039865406450.005802BR5912LAURA E DAVI6009SAO PAULO62110507PANELAS6304D0F9",
