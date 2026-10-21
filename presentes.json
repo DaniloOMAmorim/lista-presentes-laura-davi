@@ -109,6 +109,15 @@
       "link_payment": "https://www.mercadopago.com.br"
     },
     {
+      "id": "exemplo-bol",
+      "title": "Conjunto de Bowl em Cerâmica - 6 peças",
+      "description": "Conjunto com 6 bowls de cerâmica, ideal para servir frutas, sobremesas, petiscos e acompanhamentos no dia a dia.",
+      "url_img": "img/bol.jpg",
+      "price_in_cents": 8790,
+      "pix_code": "00020126580014BR.GOV.BCB.PIX013600000000-0000-0000-0000-0000000000005204000053039865406450.005802BR5912LAURA E DAVI6009SAO PAULO62110507PANELAS6304D0F9",
+      "link_payment": "https://www.mercadopago.com.br"
+    },
+    {
       "id": "exemplo-xicaras",
       "title": "Jogo de Xícaras de Chá com Pires Veneza",
       "description": "Jogo com 6 xícaras e 6 pires em porcelana, com design clássico e versátil. Ideal para servir café, chá e outras bebidas quentes.",
