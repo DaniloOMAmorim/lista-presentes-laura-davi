@@ -122,7 +122,16 @@
       "title": "Jarra de Vidro New Butterfly ",
       "description": "Jarra de vidro de 750 ml, com design delicado, alça ergonômica e bico que facilita servir água, sucos e outras bebidas. Ideal para o dia a dia e ocasiões especiais.",
       "url_img": "img/jarra.webp",
-      "price_in_cents": 14990,
+      "price_in_cents": 7990,
+      "pix_code": "00020126580014BR.GOV.BCB.PIX013600000000-0000-0000-0000-0000000000005204000053039865406450.005802BR5912LAURA E DAVI6009SAO PAULO62110507PANELAS6304D0F9",
+      "link_payment": "https://www.mercadopago.com.br"
+    },
+    {
+      "id": "exemplo-quejeira",
+      "title": "Quejeira de Vidro ",
+      "description": "Queijeira de cristal com tampa radial, ideal para servir e conservar queijos, petiscos e doces, deixando a mesa ainda mais bonita.",
+      "url_img": "img/jarra.webp",
+      "price_in_cents": 6990,
       "pix_code": "00020126580014BR.GOV.BCB.PIX013600000000-0000-0000-0000-0000000000005204000053039865406450.005802BR5912LAURA E DAVI6009SAO PAULO62110507PANELAS6304D0F9",
       "link_payment": "https://www.mercadopago.com.br"
     },
