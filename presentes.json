@@ -209,7 +209,7 @@
     },
     {
       "id": "exemplo-ferro",
-      "title": "**Ferro de Passar a Vapor Oster Diamond Aeroceramic&#xA0;**",
+      "title": "Ferro de Passar a Vapor Oster Diamond Aeroceramic&#xA0",
       "description": "Ferro de passar a vapor com base Diamond Aeroceramic, ideal para desamassar roupas com praticidade e garantir um acabamento impecável.",
       "url_img": "img/ferro.webp",
       "price_in_cents": 25990,
@@ -249,6 +249,15 @@
       "description": "Kit Peônia com aromatizador, saboneteira e porta-cotonetes em cimento, com acabamento em granilite preto.",
       "url_img": "img/jogo-lavabo.webp",
       "price_in_cents": 7990,
+      "pix_code": "00020101021126580014br.gov.bcb.pix01364f2cd5b3-3329-4092-af17-ec35e0322d825204000053039865802BR5914LAURA O SABINO6009ARACATUBA62070503***6304ED66",
+      "link_payment": "https://www.mercadopago.com.br"
+    },
+    {
+      "id": "exemplo-endredom",
+      "title": "Jogo de Colcha Home Style Aisha",
+      "description": "Jogo de colcha Home Style Aisha, ideal para deixar a cama mais aconchegante e o quarto ainda mais bonito e acolhedor.",
+      "url_img": "img/endredom.webp",
+      "price_in_cents": 39990,
       "pix_code": "00020101021126580014br.gov.bcb.pix01364f2cd5b3-3329-4092-af17-ec35e0322d825204000053039865802BR5914LAURA O SABINO6009ARACATUBA62070503***6304ED66",
       "link_payment": "https://www.mercadopago.com.br"
     },
