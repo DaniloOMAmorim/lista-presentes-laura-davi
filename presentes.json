@@ -147,9 +147,18 @@
     {
       "id": "exemplo-facas",
       "title": "Jogo de Facas com Suporte em Madeira",
-      "description": "QConjunto com 7 peças, incluindo facas variadas e suporte de madeira. Prático para o preparo dos alimentos e para manter a cozinha organizada.",
+      "description": "Conjunto com 7 peças, incluindo facas variadas e suporte de madeira. Prático para o preparo dos alimentos e para manter a cozinha organizada.",
       "url_img": "img/facas.jpg",
       "price_in_cents": 16990,
+      "pix_code": "00020126580014BR.GOV.BCB.PIX013600000000-0000-0000-0000-0000000000005204000053039865406450.005802BR5912LAURA E DAVI6009SAO PAULO62110507PANELAS6304D0F9",
+      "link_payment": "https://www.mercadopago.com.br"
+    },
+    {
+      "id": "exemplo-termica",
+      "title": "Garrafa térmica Home Style",
+      "description": "Garrafa térmica Home Style Lisa, ideal para conservar bebidas quentes ou frias por mais tempo, com design simples e versátil para o dia a dia.",
+      "url_img": "img/termica.jpg",
+      "price_in_cents": 10990,
       "pix_code": "00020126580014BR.GOV.BCB.PIX013600000000-0000-0000-0000-0000000000005204000053039865406450.005802BR5912LAURA E DAVI6009SAO PAULO62110507PANELAS6304D0F9",
       "link_payment": "https://www.mercadopago.com.br"
     },
