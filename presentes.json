@@ -163,6 +163,15 @@
       "link_payment": "https://www.mercadopago.com.br"
     },
     {
+      "id": "exemplo-espremedor",
+      "title": "Espremedor de Frutas",
+      "description": "Espremedor de frutas com capacidade de 800 ml, ideal para preparar sucos frescos de laranja, limão e outras frutas cítricas com praticidade.",
+      "url_img": "img/espremedor.jpg",
+      "price_in_cents": 15990,
+      "pix_code": "00020126580014BR.GOV.BCB.PIX013600000000-0000-0000-0000-0000000000005204000053039865406450.005802BR5912LAURA E DAVI6009SAO PAULO62110507PANELAS6304D0F9",
+      "link_payment": "https://www.mercadopago.com.br"
+    },
+    {
       "id": "exemplo-aspirador",
       "title": "Aspirador de Pó Vertical",
       "description": "Aspirador de pó 2 em 1, reservatório de 1,6L, filtro HEPA e cabo de 5 metros. Prático e versátil para a limpeza do dia a dia.",
