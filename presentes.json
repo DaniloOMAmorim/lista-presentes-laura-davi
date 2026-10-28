@@ -190,6 +190,15 @@
       "link_payment": "https://www.mercadopago.com.br"
     },
     {
+      "id": "exemplo-cafe",
+      "title": "Cafeteira Elétrica Electrolux Digital Programável",
+      "description": "Cafeteira elétrica digital programável, ideal para preparar café com praticidade e deixar suas manhãs ainda mais especiais.",
+      "url_img": "img/cafe.webp",
+      "price_in_cents": 13990,
+      "pix_code": "00020101021126580014br.gov.bcb.pix01364f2cd5b3-3329-4092-af17-ec35e0322d825204000053039865802BR5914LAURA O SABINO6009ARACATUBA62070503***6304ED66",
+      "link_payment": "https://www.mercadopago.com.br"
+    },
+    {
       "id": "exemplo-aspirador",
       "title": "Aspirador de Pó Vertical",
       "description": "Aspirador de pó 2 em 1, reservatório de 1,6L, filtro HEPA e cabo de 5 metros. Prático e versátil para a limpeza do dia a dia.",
