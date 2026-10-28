@@ -208,6 +208,15 @@
       "link_payment": "https://www.mercadopago.com.br"
     },
     {
+      "id": "exemplo-ferro",
+      "title": "**Ferro de Passar a Vapor Oster Diamond Aeroceramic&#xA0;**",
+      "description": "Ferro de passar a vapor com base Diamond Aeroceramic, ideal para desamassar roupas com praticidade e garantir um acabamento impecável.",
+      "url_img": "img/ferro.webp",
+      "price_in_cents": 25990,
+      "pix_code": "00020101021126580014br.gov.bcb.pix01364f2cd5b3-3329-4092-af17-ec35e0322d825204000053039865802BR5914LAURA O SABINO6009ARACATUBA62070503***6304ED66",
+      "link_payment": "https://www.mercadopago.com.br"
+    },
+    {
       "id": "exemplo-aspirador",
       "title": "Aspirador de Pó Vertical",
       "description": "Aspirador de pó 2 em 1, reservatório de 1,6L, filtro HEPA e cabo de 5 metros. Prático e versátil para a limpeza do dia a dia.",
