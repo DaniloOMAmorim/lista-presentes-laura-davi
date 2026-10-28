@@ -421,3 +421,37 @@ img { max-width: 100%; display: block; }
   .card { transition: none; }
   .card:hover { transform: none; }
 }
+
+/* Correção do alinhamento dos cartões de presentes */
+.grade > li {
+  display: flex;
+  justify-content: center;
+}
+
+.grade > li > .card {
+  align-items: center;
+  text-align: center;
+}
+
+.grade > li > .card > .card-titulo,
+.grade > li > .card > .preco,
+.grade > li > .card > .card-acao {
+  display: block;
+  width: 100%;
+  text-align: center;
+}
+
+.grade > li > .card > .card-titulo {
+  flex: 1;
+  padding: 0 0.75rem;
+  margin: 0.75rem 0 0.25rem;
+}
+
+.grade > li > .card > .preco {
+  margin: 0;
+}
+
+.grade > li > .card > .card-acao {
+  margin-top: 0.5rem;
+}
+
