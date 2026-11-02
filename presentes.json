@@ -46,6 +46,15 @@
       "link_payment": "https://www.mercadopago.com.br"
     },
     {
+      "id": "exemplo-bandeja",
+      "title": "Bandeja Cama de Servir Home Style Bambus",
+      "description": "Bandeja de servir Home Style em bambu, ideal para servir refeições e bebidas com praticidade ou aproveitar momentos especiais na cama.",
+      "url_img": "img/bandeja.webp",
+      "price_in_cents": 9990,
+      "pix_code": "00020101021126580014br.gov.bcb.pix01364f2cd5b3-3329-4092-af17-ec35e0322d825204000053039865802BR5914LAURA O SABINO6009ARACATUBA62070503***6304ED66",
+      "link_payment": "https://www.mercadopago.com.br"
+    },
+    {
       "id": "exemplo-jogo-de-copos",
       "title": "Jogo de Copos",
       "description": "Jogo com 6 copos Nadir Oca de 300 ml, em vidro resistente e com design moderno. Ideal para servir sucos, refrigerantes e drinks no dia a dia ou em ocasiões especiais.",
