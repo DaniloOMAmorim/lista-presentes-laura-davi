@@ -316,6 +316,15 @@
       "link_payment": "https://www.mercadopago.com.br"
     },
     {
+      "id": "exemplo-almofada",
+      "title": "Conjunto de Almofadas Boho Nice",
+      "description": "Conjunto de almofadas Boho Nice, ideal para decorar e renovar os ambientes, deixando a casa mais aconchegante e acolhedora.",
+      "url_img": "img/almofada.webp",
+      "price_in_cents": 13990,
+      "pix_code": "00020101021126580014br.gov.bcb.pix01364f2cd5b3-3329-4092-af17-ec35e0322d825204000053039865802BR5914LAURA O SABINO6009ARACATUBA62070503***6304ED66",
+      "link_payment": "https://www.mercadopago.com.br"
+    },
+    {
       "id": "exemplo-lua-de-mel",
       "title": "Cota da lua de mel",
       "description": "Ajude a gente a conhecer um lugar novo juntos.",
