@@ -85,7 +85,7 @@
       "id": "exemplo-escorredor",
       "title": "Escorredor De Louças Bambu Natural Dobrável",
       "description": "Escorredor de louça dobrável em bambu natural, com 11 divisórias para pratos. Prático, resistente e ideal para organizar a cozinha economizando espaço.",
-      "url_img": "img/escorredor.webp",
+      "url_img": "img/escorredor1.webp",
       "price_in_cents": 8990,
       "pix_code": "00020101021126580014br.gov.bcb.pix01364f2cd5b3-3329-4092-af17-ec35e0322d825204000053039865802BR5914LAURA O SABINO6009ARACATUBA62070503***6304ED66",
       "link_payment": "https://www.mercadopago.com.br"
@@ -114,6 +114,15 @@
       "description": "Batedeira planetária, com 12 velocidades, tigela de inox de 3,5L e 3 batedores para diferentes receitas. Prática e versátil para preparar bolos, pães, massas e muito mais.",
       "url_img": "img/batedeira_planetaria.jpg",
       "price_in_cents": 51990,
+      "pix_code": "00020101021126580014br.gov.bcb.pix01364f2cd5b3-3329-4092-af17-ec35e0322d825204000053039865802BR5914LAURA O SABINO6009ARACATUBA62070503***6304ED66",
+      "link_payment": "https://www.mercadopago.com.br"
+    },
+    {
+      "id": "exemplo-bolo",
+      "title": "Prato de Bolo Fleur",
+      "description": "Prato de bolo Fleur, ideal para servir bolos, tortas e sobremesas, deixando a mesa ainda mais bonita e especial.",
+      "url_img": "img/bolo.wepb",
+      "price_in_cents": 11990,
       "pix_code": "00020101021126580014br.gov.bcb.pix01364f2cd5b3-3329-4092-af17-ec35e0322d825204000053039865802BR5914LAURA O SABINO6009ARACATUBA62070503***6304ED66",
       "link_payment": "https://www.mercadopago.com.br"
     },
