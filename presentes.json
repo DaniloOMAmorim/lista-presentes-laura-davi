@@ -85,7 +85,7 @@
       "id": "exemplo-escorredor",
       "title": "Escorredor De Louças Bambu Natural Dobrável",
       "description": "Escorredor de louça dobrável em bambu natural, com 11 divisórias para pratos. Prático, resistente e ideal para organizar a cozinha economizando espaço.",
-      "url_img": "img/escorredor_pratos_dobravel_bambu.jpg",
+      "url_img": "img/escorredor.webp",
       "price_in_cents": 8990,
       "pix_code": "00020101021126580014br.gov.bcb.pix01364f2cd5b3-3329-4092-af17-ec35e0322d825204000053039865802BR5914LAURA O SABINO6009ARACATUBA62070503***6304ED66",
       "link_payment": "https://www.mercadopago.com.br"
@@ -96,6 +96,15 @@
       "description": "Pipoqueira elétrica, prepara pipoca em menos de 3 minutos sem óleo, com capacidade para 100g de milho. Compacta, prática e fácil de guardar.",
       "url_img": "img/pipoqueira.jpg",
       "price_in_cents": 11990,
+      "pix_code": "00020101021126580014br.gov.bcb.pix01364f2cd5b3-3329-4092-af17-ec35e0322d825204000053039865802BR5914LAURA O SABINO6009ARACATUBA62070503***6304ED66",
+      "link_payment": "https://www.mercadopago.com.br"
+    },
+    {
+      "id": "exemplo-assadeira",
+      "title": "**Assadeira Refratária Home Style Orgânica",
+      "description": "Assadeira refratária Home Style Orgânica, ideal para preparar e servir diferentes receitas com praticidade e charme à mesa.",
+      "url_img": "img/assadeira.webp",
+      "price_in_cents": 10990,
       "pix_code": "00020101021126580014br.gov.bcb.pix01364f2cd5b3-3329-4092-af17-ec35e0322d825204000053039865802BR5914LAURA O SABINO6009ARACATUBA62070503***6304ED66",
       "link_payment": "https://www.mercadopago.com.br"
     },
