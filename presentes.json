@@ -172,6 +172,15 @@
       "link_payment": "https://www.mercadopago.com.br"
     },
     {
+      "id": "exemplo-tigela",
+      "title": "### Jogo de Tigelas de Preparo Home Style Lumi",
+      "description": "Jogo de tigelas Home Style Lumi, ideal para preparar, misturar e servir diferentes receitas com praticidade no dia a dia.",
+      "url_img": "img/tigela.webp",
+      "price_in_cents": 13990,
+      "pix_code": "00020101021126580014br.gov.bcb.pix01364f2cd5b3-3329-4092-af17-ec35e0322d825204000053039865802BR5914LAURA O SABINO6009ARACATUBA62070503***6304ED66",
+      "link_payment": "https://www.mercadopago.com.br"
+    },
+    {
       "id": "exemplo-sanduiche",
       "title": "Sanduicheira e Grill Philco 2 em 1",
       "description": "Sanduicheira e grill 2 em 1 com acabamento em inox, ideal para preparar sanduíches, grelhados e lanches rápidos no dia a dia.",
