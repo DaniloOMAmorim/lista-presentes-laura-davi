@@ -73,6 +73,15 @@
       "link_payment": "https://www.mercadopago.com.br"
     },
     {
+      "id": "exemplo-suco",
+      "title": "Suqueira Dublin",
+      "description": "Suqueira Dublin, ideal para servir sucos, águas aromatizadas e outras bebidas com praticidade e charme em momentos especiais.",
+      "url_img": "img/suco.webp",
+      "price_in_cents": 29990,
+      "pix_code": "00020101021126580014br.gov.bcb.pix01364f2cd5b3-3329-4092-af17-ec35e0322d825204000053039865802BR5914LAURA O SABINO6009ARACATUBA62070503***6304ED66",
+      "link_payment": "https://www.mercadopago.com.br"
+    },
+    {
       "id": "exemplo-escorredor",
       "title": "Escorredor De Louças Bambu Natural Dobrável",
       "description": "Escorredor de louça dobrável em bambu natural, com 11 divisórias para pratos. Prático, resistente e ideal para organizar a cozinha economizando espaço.",
