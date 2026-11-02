@@ -119,7 +119,7 @@
     },
     {
       "id": "exemplo-assadeira",
-      "title": "**Assadeira Refratária Home Style Orgânica",
+      "title": "Assadeira Refratária Home Style Orgânica",
       "description": "Assadeira refratária Home Style Orgânica, ideal para preparar e servir diferentes receitas com praticidade e charme à mesa.",
       "url_img": "img/assadeira.webp",
       "price_in_cents": 10990,
@@ -177,6 +177,15 @@
       "description": "Jarra de vidro de 750 ml, com design delicado, alça ergonômica e bico que facilita servir água, sucos e outras bebidas. Ideal para o dia a dia e ocasiões especiais.",
       "url_img": "img/jarra.webp",
       "price_in_cents": 7990,
+      "pix_code": "00020101021126580014br.gov.bcb.pix01364f2cd5b3-3329-4092-af17-ec35e0322d825204000053039865802BR5914LAURA O SABINO6009ARACATUBA62070503***6304ED66",
+      "link_payment": "https://www.mercadopago.com.br"
+    },
+    {
+      "id": "exemplo-cama",
+      "title": "Jogo de Cama Imperial Casal com Renda",
+      "description": "Jogo de cama casal com 4 peças, em branco e com delicados detalhes em renda. Ideal para deixar o quarto mais bonito e aconchegante.",
+      "url_img": "img/cama.webp",
+      "price_in_cents": 14990,
       "pix_code": "00020101021126580014br.gov.bcb.pix01364f2cd5b3-3329-4092-af17-ec35e0322d825204000053039865802BR5914LAURA O SABINO6009ARACATUBA62070503***6304ED66",
       "link_payment": "https://www.mercadopago.com.br"
     },
