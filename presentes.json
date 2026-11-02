@@ -20,7 +20,7 @@
     },
     {
       "id": "exemplo-refratario-ceramica",
-      "title": "Jogo de Refratario de Ceramica",
+      "title": "Jogo de Refratários de Cerâmica",
       "description": "Conjunto com 3 assadeiras em cerâmica, resistentes, versáteis e ideais para preparar e servir diferentes receitas.",
       "url_img": "img/jogo-refratario-ceramica.webp",
       "price_in_cents": 10190,
@@ -29,7 +29,7 @@
     },
     {
       "id": "exemplo-jogo-de-utensilios",
-      "title": "Jogo de Utencilios",
+      "title": "Jogo de Utensílios",
       "description": "Conjunto com 6 utensílios de bambu, incluindo porta-utensílios. Prático, resistente e ideal para o dia a dia na cozinha.",
       "url_img": "img/jogo-de-utensilios.webp",
       "price_in_cents": 10900,
@@ -65,7 +65,7 @@
     },
     {
       "id": "exemplo-jogo-de-tacas-sobremesa",
-      "title": "Jogo De Taças Sobremesa",
+      "title": "Jogo de Taças de Sobremesa",
       "description": "Jogo com 6 taças de sobremesa, com capacidade de 230 ml. Em vidro resistente, possuem design clássico e são ideais para servir sorvetes, mousses, frutas e outras sobremesas.",
       "url_img": "img/jogo-de-tacas-sobremesa.jpg",
       "price_in_cents": 10990,
@@ -200,7 +200,7 @@
     },
     {
       "id": "exemplo-quejeira",
-      "title": "Quejeira de Vidro ",
+      "title": "Queijeira de Vidro",
       "description": "Queijeira de cristal com tampa radial, ideal para servir e conservar queijos, petiscos e doces, deixando a mesa ainda mais bonita.",
       "url_img": "img/quejeira.webp",
       "price_in_cents": 10690,
@@ -236,7 +236,7 @@
     },
     {
       "id": "exemplo-tigela",
-      "title": "### Jogo de Tigelas de Preparo Home Style Lumi",
+      "title": "Jogo de Tigelas de Preparo Home Style Lumi",
       "description": "Jogo de tigelas Home Style Lumi, ideal para preparar, misturar e servir diferentes receitas com praticidade no dia a dia.",
       "url_img": "img/tigela.webp",
       "price_in_cents": 13990,
@@ -290,7 +290,7 @@
     },
     {
       "id": "exemplo-ferro",
-      "title": "Ferro de Passar a Vapor Oster Diamond Aeroceramic&#xA0",
+      "title": "Ferro de Passar a Vapor Oster Diamond",
       "description": "Ferro de passar a vapor com base Diamond Aeroceramic, ideal para desamassar roupas com praticidade e garantir um acabamento impecável.",
       "url_img": "img/ferro.webp",
       "price_in_cents": 25990,
