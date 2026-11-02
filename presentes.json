@@ -7,7 +7,7 @@
       "url_img": "img/jogodepanela.webp",
       "price_in_cents": 47000,
       "pix_code": "00020101021126580014br.gov.bcb.pix01364f2cd5b3-3329-4092-af17-ec35e0322d825204000053039865802BR5914LAURA O SABINO6009ARACATUBA62070503***6304ED66",
-      "link_payment": "https://payment-link-v3.ton.com.br/pl_GWP4qz6YE01nwG9tQ6T4ynQ7kOrwyNVA"
+      "link_payment": "https://link.infinitepay.io/davi-almeida-2ty/VC1DLTMtSQ-JW1uEh66Kk-470,00"
     },
     {
       "id": "exemplo-jantar-a-dois",
@@ -16,7 +16,7 @@
       "url_img": "img/jogo-de-jantar.webp",
       "price_in_cents": 28990,
       "pix_code": "00020101021126580014br.gov.bcb.pix01364f2cd5b3-3329-4092-af17-ec35e0322d825204000053039865802BR5914LAURA O SABINO6009ARACATUBA62070503***6304ED66",
-      "link_payment": "https://www.mercadopago.com.br"
+      "link_payment": "https://link.infinitepay.io/davi-almeida-2ty/VC1DLTMtSQ-9lPsCW3fWy-289,90"
     },
     {
       "id": "exemplo-refratario-ceramica",
@@ -25,7 +25,7 @@
       "url_img": "img/jogo-refratario-ceramica.webp",
       "price_in_cents": 10190,
       "pix_code": "00020101021126580014br.gov.bcb.pix01364f2cd5b3-3329-4092-af17-ec35e0322d825204000053039865802BR5914LAURA O SABINO6009ARACATUBA62070503***6304ED66",
-      "link_payment": "https://www.mercadopago.com.br"
+      "link_payment": "https://link.infinitepay.io/davi-almeida-2ty/VC1DLTMtSQ-mA2XChdxc2-101,90"
     },
     {
       "id": "exemplo-jogo-de-utensilios",
@@ -34,16 +34,16 @@
       "url_img": "img/jogo-de-utensilios.webp",
       "price_in_cents": 10900,
       "pix_code": "00020101021126580014br.gov.bcb.pix01364f2cd5b3-3329-4092-af17-ec35e0322d825204000053039865802BR5914LAURA O SABINO6009ARACATUBA62070503***6304ED66",
-      "link_payment": "https://www.mercadopago.com.br"
+      "link_payment": "https://link.infinitepay.io/davi-almeida-2ty/VC1DLTMtSQ-8egOZSBW3L-109,00"
     },
     {
       "id": "exemplo-jogo-de-potes-vidro-tampa",
       "title": "Jogo de Potes de Vidro",
       "description": "Kit Electrolux com 4 potes herméticos de vidro e tampas em inox, ideais para armazenar e conservar alimentos com praticidade e organização.",
       "url_img": "img/potes-vidro-tampa.webp",
-      "price_in_cents": 10400,
+      "price_in_cents": 10900,
       "pix_code": "00020101021126580014br.gov.bcb.pix01364f2cd5b3-3329-4092-af17-ec35e0322d825204000053039865802BR5914LAURA O SABINO6009ARACATUBA62070503***6304ED66",
-      "link_payment": "https://www.mercadopago.com.br"
+      "link_payment": "https://link.infinitepay.io/davi-almeida-2ty/VC1DLTMtSQ-8egOZSBW3L-109,00"
     },
     {
       "id": "exemplo-bandeja",
@@ -52,7 +52,7 @@
       "url_img": "img/bandeja.webp",
       "price_in_cents": 11990,
       "pix_code": "00020101021126580014br.gov.bcb.pix01364f2cd5b3-3329-4092-af17-ec35e0322d825204000053039865802BR5914LAURA O SABINO6009ARACATUBA62070503***6304ED66",
-      "link_payment": "https://www.mercadopago.com.br"
+      "link_payment": "https://link.infinitepay.io/davi-almeida-2ty/VC1DLTMtSQ-FCdZWBCv12-119,90"
     },
     {
       "id": "exemplo-jogo-de-copos",
@@ -61,7 +61,7 @@
       "url_img": "img/jogo-de-copos.webp",
       "price_in_cents": 12990,
       "pix_code": "00020101021126580014br.gov.bcb.pix01364f2cd5b3-3329-4092-af17-ec35e0322d825204000053039865802BR5914LAURA O SABINO6009ARACATUBA62070503***6304ED66",
-      "link_payment": "https://www.mercadopago.com.br"
+      "link_payment": "https://link.infinitepay.io/davi-almeida-2ty/VC1DLTMtSQ-VtJdfPptxg-129,90"
     },
     {
       "id": "exemplo-jogo-de-tacas-sobremesa",
@@ -70,7 +70,7 @@
       "url_img": "img/jogo-de-tacas-sobremesa.jpg",
       "price_in_cents": 10990,
       "pix_code": "00020101021126580014br.gov.bcb.pix01364f2cd5b3-3329-4092-af17-ec35e0322d825204000053039865802BR5914LAURA O SABINO6009ARACATUBA62070503***6304ED66",
-      "link_payment": "https://www.mercadopago.com.br"
+      "link_payment": "https://link.infinitepay.io/davi-almeida-2ty/VC1DLTMtSQ-uaNBtjyVpJ-109,90"
     },
     {
       "id": "exemplo-moedor",
@@ -79,7 +79,7 @@
       "url_img": "img/moedor.webp",
       "price_in_cents": 13990,
       "pix_code": "00020101021126580014br.gov.bcb.pix01364f2cd5b3-3329-4092-af17-ec35e0322d825204000053039865802BR5914LAURA O SABINO6009ARACATUBA62070503***6304ED66",
-      "link_payment": "https://www.mercadopago.com.br"
+      "link_payment": "https://link.infinitepay.io/davi-almeida-2ty/VC1DLTMtSQ-fkatEm9vpI-139,90"
     },
     {
       "id": "exemplo-panela-eletrica",
@@ -88,7 +88,7 @@
       "url_img": "img/panela-eletrica.webp",
       "price_in_cents": 19990,
       "pix_code": "00020101021126580014br.gov.bcb.pix01364f2cd5b3-3329-4092-af17-ec35e0322d825204000053039865802BR5914LAURA O SABINO6009ARACATUBA62070503***6304ED66",
-      "link_payment": "https://www.mercadopago.com.br"
+      "link_payment": "https://link.infinitepay.io/davi-almeida-2ty/VC1DLTMtSQ-mMHV4EBga8-199,90"
     },
     {
       "id": "exemplo-suco",
@@ -97,7 +97,7 @@
       "url_img": "img/suco.webp",
       "price_in_cents": 29990,
       "pix_code": "00020101021126580014br.gov.bcb.pix01364f2cd5b3-3329-4092-af17-ec35e0322d825204000053039865802BR5914LAURA O SABINO6009ARACATUBA62070503***6304ED66",
-      "link_payment": "https://www.mercadopago.com.br"
+      "link_payment": "https://link.infinitepay.io/davi-almeida-2ty/VC1DLTMtSQ-64C6mGaIAp-299,90"
     },
     {
       "id": "exemplo-fondue",
@@ -115,7 +115,7 @@
       "url_img": "img/escorredor1.webp",
       "price_in_cents": 10000,
       "pix_code": "00020101021126580014br.gov.bcb.pix01364f2cd5b3-3329-4092-af17-ec35e0322d825204000053039865802BR5914LAURA O SABINO6009ARACATUBA62070503***6304ED66",
-      "link_payment": "https://www.mercadopago.com.br"
+      "link_payment": "https://link.infinitepay.io/davi-almeida-2ty/VC1DLTMtSQ-rkJtRZUiSx-100,00"
     },
     {
       "id": "exemplo-pipoca",
@@ -124,7 +124,7 @@
       "url_img": "img/pipoqueira.jpg",
       "price_in_cents": 11990,
       "pix_code": "00020101021126580014br.gov.bcb.pix01364f2cd5b3-3329-4092-af17-ec35e0322d825204000053039865802BR5914LAURA O SABINO6009ARACATUBA62070503***6304ED66",
-      "link_payment": "https://www.mercadopago.com.br"
+      "link_payment": "https://link.infinitepay.io/davi-almeida-2ty/VC1DLTMtSQ-5tMoRpAjuK-119,90"
     },
     {
       "id": "exemplo-assadeira",
@@ -133,7 +133,7 @@
       "url_img": "img/assadeira.webp",
       "price_in_cents": 10990,
       "pix_code": "00020101021126580014br.gov.bcb.pix01364f2cd5b3-3329-4092-af17-ec35e0322d825204000053039865802BR5914LAURA O SABINO6009ARACATUBA62070503***6304ED66",
-      "link_payment": "https://www.mercadopago.com.br"
+      "link_payment": "https://link.infinitepay.io/davi-almeida-2ty/VC1DLTMtSQ-2iNiLtdMJo-109,90"
     },
     {
       "id": "exemplo-batedeira",
@@ -142,7 +142,7 @@
       "url_img": "img/batedeira_planetaria.jpg",
       "price_in_cents": 54990,
       "pix_code": "00020101021126580014br.gov.bcb.pix01364f2cd5b3-3329-4092-af17-ec35e0322d825204000053039865802BR5914LAURA O SABINO6009ARACATUBA62070503***6304ED66",
-      "link_payment": "https://www.mercadopago.com.br"
+      "link_payment": "https://link.infinitepay.io/davi-almeida-2ty/VC1DLTMtSQ-7uyD15WUfC-549,90"
     },
     {
       "id": "exemplo-bolo",
@@ -151,7 +151,7 @@
       "url_img": "img/bolo.webp",
       "price_in_cents": 11990,
       "pix_code": "00020101021126580014br.gov.bcb.pix01364f2cd5b3-3329-4092-af17-ec35e0322d825204000053039865802BR5914LAURA O SABINO6009ARACATUBA62070503***6304ED66",
-      "link_payment": "https://www.mercadopago.com.br"
+      "link_payment": "https://link.infinitepay.io/davi-almeida-2ty/VC1DLTMtSQ-ClvDkDD2iR-119,90"
     },
     {
       "id": "exemplo-mixer",
@@ -160,7 +160,7 @@
       "url_img": "img/mixer-vermelho-com-utensilios.jpg",
       "price_in_cents": 10990,
       "pix_code": "00020101021126580014br.gov.bcb.pix01364f2cd5b3-3329-4092-af17-ec35e0322d825204000053039865802BR5914LAURA O SABINO6009ARACATUBA62070503***6304ED66",
-      "link_payment": "https://www.mercadopago.com.br"
+      "link_payment": "https://link.infinitepay.io/davi-almeida-2ty/VC1D-nHEfmdIo78-109,90"
     },
     {
       "id": "exemplo-bol",
